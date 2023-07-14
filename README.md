@@ -1,3 +1,5 @@
+### Note : This repository is an unofficial continuation of Mini.RegionInstall due to the original repository being discontinued.
+
 # Mini.RegionInstall
 
 This mod allows you to pre-install a server region into your Among Us.
@@ -8,7 +10,7 @@ This can be useful when creating a modpack and installing a custom server for al
 
 If you already received a copy as part of a modpack, go to the Configuration section. Otherwise,
 
-1. Download a copy from the [Releases](https://github.com/miniduikboot/Mini.RegionInstall/releases) page. If you do not use Reactor, use Mini.RegionInstall-NoReactor.dll. Otherwise, use Mini.RegionInstall.dll
+1. Download a copy from the [Releases](https://github.com/JeanAU/Mini.RegionInstall/releases) page. If you do not use Reactor, use Mini.RegionInstall-NoReactor.dll. Otherwise, use Mini.RegionInstall.dll
 2. Install [BepInEx](https://docs.reactor.gg/quick_start/install_bepinex) according to this guide
 3. Copy the dll to `BepInEx/plugins`
 4. Run Among Us once to generate a default configuration
@@ -41,3 +43,6 @@ To help with GPL compliance, the plugin dll contains a zip with its own source c
 Discord: miniduikboot#2965
 Email: mini at duikbo dot at
 [Carrier Pigeon](https://en.wikipedia.org/wiki/IPoAC): Discontinued due to a lack of reliable delivery.
+
+## Credit 
+-JeanAu : for support Latest Version of Among us and make it work
